@@ -1,5 +1,3 @@
-# config.py
-
 VEHICLE_CLASSES = {
     2: "car",
     3: "motorcycle",

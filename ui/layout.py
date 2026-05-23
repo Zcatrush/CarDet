@@ -1,4 +1,3 @@
-
 from PyQt5.QtWidgets import QLabel, QPushButton, QWidget, QVBoxLayout, QHBoxLayout, QGridLayout, QSizePolicy
 from PyQt5.QtCore import Qt
 from config import STYLE_SHEET
