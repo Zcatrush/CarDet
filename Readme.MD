@@ -62,7 +62,7 @@ CarDet/
 py -3.10 -m venv venv310
 venv310\Scripts\activate
 python -m pip install --upgrade pip
-pip install ultralytics opencv-python PyQt5
+pip install ultralytics opencv-python PyQt5 lap
 ```
 
 ### 2. 启动程序
